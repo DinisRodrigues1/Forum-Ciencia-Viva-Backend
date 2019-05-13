@@ -1,0 +1,12 @@
+{
+  "require": {
+    "slim/slim": "^3.0",
+    "dyorg/slim-token-authentication": "^0.3.3",
+    "dflydev/fig-cookies": "^1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "app"
+    ]
+  }
+}
